@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAndComparisonOperator", "MathAndComparisonOperator\MathAndComparisonOperator.csproj", "{B0FA446F-CF20-48D8-8FDC-6DDA3BC514E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FA446F-CF20-48D8-8FDC-6DDA3BC514E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FA446F-CF20-48D8-8FDC-6DDA3BC514E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FA446F-CF20-48D8-8FDC-6DDA3BC514E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FA446F-CF20-48D8-8FDC-6DDA3BC514E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63124DBA-B84B-4767-A929-3F112FF33A78}
+	EndGlobalSection
+EndGlobal
