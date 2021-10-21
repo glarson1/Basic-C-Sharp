@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\bin\Debug\branchingSubmissionAssign.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\bin\Debug\branchingSubmissionAssign.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\bin\Debug\branchingSubmissionAssign.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\obj\Debug\branchingSubmissionAssign.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\obj\Debug\branchingSubmissionAssign.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\obj\Debug\branchingSubmissionAssign.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\branchingSubmissionAssign\branchingSubmissionAssign\obj\Debug\branchingSubmissionAssign.pdb

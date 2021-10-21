@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Branching\Branching\obj\Debug\Branching.pdb

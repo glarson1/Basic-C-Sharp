@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\obj\Debug\practicingSideChallenges.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\obj\Debug\practicingSideChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\bin\Debug\practicingSideChallenges.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\bin\Debug\practicingSideChallenges.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\bin\Debug\practicingSideChallenges.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\obj\Debug\practicingSideChallenges.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\practicingSideChallenges\practicingSideChallenges\obj\Debug\practicingSideChallenges.pdb
