@@ -34,7 +34,7 @@ namespace branchingSubmissionAssign
                 int packageLength = Convert.ToInt32(Console.ReadLine());
 
                 //calculating the dimensions for the package
-                int dimensions = packageHeight * packageLength * packageWidth;
+                int dimensions = packageHeight + packageLength + packageWidth;
 
                 //if the dimensions are greater than 50 an error message will be shown and the program will end. Otherwise it will continue on
                 if (dimensions > 50)
