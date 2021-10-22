@@ -33,12 +33,23 @@ namespace branchingSubmissionAssign
                 Console.WriteLine("Please enter the package length:");
                 int packageLength = Convert.ToInt32(Console.ReadLine());
 
-                //calculating the quote price for the package by multiplying ((height x width x length) x (weight)) and dividing by 100
-                //each measurement has to first be converted into a decimal for the final answer to have two decimal places as money should
-                decimal quote = ((Convert.ToDecimal(packageHeight) * Convert.ToDecimal(packageWidth) * Convert.ToDecimal(packageLength)) * Convert.ToDecimal(packageWeight)) / 100;
+                //calculating the dimensions for the package
+                int dimensions = packageHeight * packageLength * packageWidth;
 
-                //Displays the users quote
-                Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
+                //if the dimensions are greater than 50 an error message will be shown and the program will end. Otherwise it will continue on
+                if (dimensions > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express");
+                }
+                else
+                {
+                    //calculating the quote price for the package by multiplying ((height x width x length) x (weight)) and dividing by 100
+                    //each measurement has to first be converted into a decimal for the final answer to have two decimal places as money should
+                    decimal quote = ((Convert.ToDecimal(packageHeight) * Convert.ToDecimal(packageWidth) * Convert.ToDecimal(packageLength)) * Convert.ToDecimal(packageWeight)) / 100;
+
+                    //Displays the users quote
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
+                }
             }
             Console.ReadLine();
 
