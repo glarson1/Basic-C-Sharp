@@ -52,10 +52,12 @@ namespace ConsoleAppSubmissionAssign
 
            // END OF WHILE DO. NOW MOVING ON TO JUST A WHILE LOOP
 
+            //getting user input saving as a string and creating a boolean that is true when string "yellow" is guessed
             Console.WriteLine("What color is a lemon?");
             string colorGuessed = Console.ReadLine();
             bool guessCorrect = colorGuessed == "yellow";
 
+            //start of the while loop. While guessCorrect is false do the switches. Will be true if user types yellow and program can end
             while (!guessCorrect)
             {
                 switch (colorGuessed)
