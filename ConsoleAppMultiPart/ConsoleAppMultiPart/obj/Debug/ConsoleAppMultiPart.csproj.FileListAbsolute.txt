@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\bin\Debug\ConsoleAppMultiPart.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\bin\Debug\ConsoleAppMultiPart.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\bin\Debug\ConsoleAppMultiPart.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\obj\Debug\ConsoleAppMultiPart.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\obj\Debug\ConsoleAppMultiPart.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\obj\Debug\ConsoleAppMultiPart.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConsoleAppMultiPart\ConsoleAppMultiPart\obj\Debug\ConsoleAppMultiPart.pdb

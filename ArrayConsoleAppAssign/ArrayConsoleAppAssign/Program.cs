@@ -37,7 +37,7 @@ namespace ArrayConsoleAppAssign
             else
             {
                 //displaying the users index on the screen
-                Console.WriteLine(numArray[userIndex]);
+                Console.WriteLine(numArray[userIndex2]);
                 Console.ReadLine();
             }
 
@@ -50,7 +50,7 @@ namespace ArrayConsoleAppAssign
             int userIndex3 = Convert.ToInt32(Console.ReadLine());
 
             //displaying the index
-            Console.WriteLine(stringList[userIndex]);
+            Console.WriteLine(stringList[userIndex3]);
             Console.ReadLine();
         }
     }
