@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\bin\Debug\MethodClassSubmission.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\bin\Debug\MethodClassSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\bin\Debug\MethodClassSubmission.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\obj\Debug\MethodClassSubmission.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\obj\Debug\MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\obj\Debug\MethodClassSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\MethodClassSubmission\MethodClassSubmission\obj\Debug\MethodClassSubmission.pdb
