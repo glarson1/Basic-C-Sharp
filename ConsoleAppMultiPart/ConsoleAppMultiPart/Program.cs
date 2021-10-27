@@ -83,12 +83,14 @@ namespace ConsoleAppMultiPart
                     Console.WriteLine("the index of that input is " + r);
                     break;
                 }
-                else
-                {
-                    Console.WriteLine("Sorry this is not a valid input");
-                }
+
 
             }
+            if (stringList.Contains(userEntry) == false)
+            {
+                Console.WriteLine("This item is not in the list");
+            }
+
             Console.ReadLine();
 
             //......PART FIVE......
@@ -107,6 +109,10 @@ namespace ConsoleAppMultiPart
                 {
                     Console.WriteLine(userSearch + " is in the list at index number " + p);
                 }
+            }
+            if (listOfStrings.Contains(userSearch) == false)
+            {
+                Console.WriteLine("This item is not in the list");
             }
             Console.ReadLine();
 
