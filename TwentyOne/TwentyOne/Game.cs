@@ -11,7 +11,7 @@ namespace TwentyOne
     //Game is an example of a BASE CLASS which is another word for ABSTRACT CLASS
     public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -22,7 +22,7 @@ namespace TwentyOne
         //virtual method means that this method gets inherited by an inheriting class but it can be overriten
         public virtual void ListPlayers()
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }

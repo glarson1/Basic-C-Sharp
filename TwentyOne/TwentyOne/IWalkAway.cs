@@ -8,5 +8,8 @@ namespace TwentyOne
 {
     interface IWalkAway
     {
+        //everything is public in an interface so we dont have to put public before void WalkAway
+        void WalkAway(Player player);
+
     }
 }
