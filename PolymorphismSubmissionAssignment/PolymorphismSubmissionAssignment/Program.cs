@@ -21,7 +21,11 @@ namespace PolymorphismSubmissionAssignment
             employee.SayName();
             Console.ReadLine();
 
-            employee.Quit(employee);
+            //creating an object of type Iquittable and call the Quit() method
+            IQuittable guy = new Employee();
+
+            //calling on the quit method
+            guy.Quit(employee);
             Console.ReadLine();
         }
     }

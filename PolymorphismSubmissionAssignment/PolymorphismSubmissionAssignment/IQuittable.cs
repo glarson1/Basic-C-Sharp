@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace PolymorphismSubmissionAssignment
-{
+{   //created an interface with a method called Quit
     interface IQuittable
     {
         void Quit(Person person);
