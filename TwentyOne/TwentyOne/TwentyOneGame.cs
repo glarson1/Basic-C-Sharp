@@ -9,9 +9,15 @@ namespace TwentyOne
     //THIS AVOIDS HAVING TO REWRITE CODE
     public class TwentyOneGame : Game
     {
-        public void Play()
+        //override keyword satisfies that we are using the abstract method Play from abstract Game class
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players:");
+            base.ListPlayers();
         }
     }
 }
