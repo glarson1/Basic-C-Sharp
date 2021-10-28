@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\PolymorphismSubmissionAssignment\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.pdb
