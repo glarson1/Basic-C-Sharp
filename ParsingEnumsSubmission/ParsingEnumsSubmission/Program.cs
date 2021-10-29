@@ -10,7 +10,7 @@ namespace ParsingEnumsSubmission
     {
         static void Main(string[] args)
         {
-            
+            //Try catch block to prepare for possible user input errors
             try 
             {
                 //instanciated the ClassWithEnum

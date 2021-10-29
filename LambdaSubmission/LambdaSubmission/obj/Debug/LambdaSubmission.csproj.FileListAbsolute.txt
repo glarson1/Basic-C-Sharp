@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.pdb
