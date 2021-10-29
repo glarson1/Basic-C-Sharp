@@ -8,14 +8,33 @@ namespace TwentyOne
 {
     public class Card
     {
-        public Card()
-        {
-            Suit = "Spades";
-            Face = "Two";
-        }
-        //the card class has a property of data type STRING called SUIT and you can GET this property or SET the property
+       
+        //the card class has a property of data type enum Suit called SUIT and you can GET this property or SET the property
         //public means its accessible to other parts of the program
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+    }
+    //Defining an enum
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }

@@ -17,14 +17,14 @@ namespace OperatorsSubmission
             obj1.lastName = "one";
             obj1.Id = 44;
 
+            //created another instance of Employee with firstname lastname and ID
             Employee obj2 = new Employee();
 
             obj2.firstName = "obj";
             obj2.lastName = "two";
-            obj2.Id = 44;
+            obj2.Id = 112;
 
-
-
+            //Checking if the two Employee objects are equal by comparing their Id's
             Console.WriteLine("is obj1's Id equal to obj2's? \n" + (obj1 == obj2));
             Console.ReadLine();
 

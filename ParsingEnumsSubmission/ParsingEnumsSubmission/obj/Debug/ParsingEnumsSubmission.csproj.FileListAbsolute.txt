@@ -1,0 +1,6 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.pdb
