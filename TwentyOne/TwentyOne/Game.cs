@@ -11,9 +11,13 @@ namespace TwentyOne
     //Game is an example of a BASE CLASS which is another word for ABSTRACT CLASS
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
+
+        public List<Player> Players { get { return _players; } set { _players = value; } }
+
         public string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
 
         //abstract methods can only exist inside of an abstract class and they contain no implimentation
         //any class inheriting this class must impliment this method

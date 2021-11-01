@@ -10,6 +10,7 @@ namespace LambdaSubmission
     {
         static void Main(string[] args)
         {
+            //created a list of 10 employees each with a firstname, lastname, and Id
             List<Employee> employees = new List<Employee>()
             {
                 new Employee {firstName = "Joe", lastName = "Mama", Id = 1},
@@ -24,6 +25,7 @@ namespace LambdaSubmission
                 new Employee {firstName = "Jack", lastName = "Daniels", Id = 10}
             };
 
+            //Created a new list of all employees with the first name Joe using a foreach loop
             List<Employee> newList = new List<Employee>();
             foreach (Employee employee in employees)
             {
