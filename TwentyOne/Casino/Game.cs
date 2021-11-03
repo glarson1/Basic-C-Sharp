@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     //keyword abstract means this class can never be instanciated. Only meant to be inherited from. 
     //We are never going to have an instance of "Game". We will always have specific games ex: blackjack,poker

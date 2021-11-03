@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -25,6 +22,8 @@ namespace TwentyOne
             {
                 //Created a player
                 Player player = new Player(playerName, bank);
+               
+
                 //Created a game
                 Game game = new TwentyOneGame();
                 //Added player to the game

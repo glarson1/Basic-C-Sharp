@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {   //Changed from class to struct which makes it so it can't be inherited
     public struct Card
     {
