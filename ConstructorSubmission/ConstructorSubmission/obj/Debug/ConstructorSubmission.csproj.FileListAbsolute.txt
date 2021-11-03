@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe.config
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.pdb
