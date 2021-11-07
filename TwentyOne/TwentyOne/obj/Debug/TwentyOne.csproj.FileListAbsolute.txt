@@ -5,6 +5,5 @@ C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\D
 C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\Casino.dll
 C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
 C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
-C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
