@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.deps.json
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\ref\Scores2.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\bin\Debug\net5.0\Scores2.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\ref\Scores2.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\Basic-C-Sharp\Scores2\Scores2\obj\Debug\net5.0\Scores2.genruntimeconfig.cache
